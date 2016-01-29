@@ -14,3 +14,5 @@ Make the tests pass.
 * [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
 
 Hi
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/josh-testing-1' title='Objectives'>Objectives</a> on Learn.co and start learning to code for free.</p>
